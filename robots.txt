@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/pawan-kumar-kait/sitemap.xml
+Sitemap: https://kaitpawan16-arch.github.io/Advocate-Pawan-Kumar---Lawyer-in-Chandigarh-and-Panchkula-/sitemap.xml
+
